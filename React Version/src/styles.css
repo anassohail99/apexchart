@@ -1,0 +1,10 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.container {
+  margin: 70px auto;
+  overflow: hidden;
+  width: 80%;
+  text-align: center;
+}
