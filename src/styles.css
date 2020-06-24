@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  margin: 70px auto;
+  overflow: hidden;
+  width: 100%;
+  text-align: center;
+}
